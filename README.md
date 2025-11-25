@@ -64,3 +64,8 @@ Below are the data schemas of the 2 datasets containing the following columns:
 | Phone Number	| Customer's phone number | 04425 708 360 |
 | Loyalty tier	| Customer's loyalty level (Bronze, Silver, Gold) | Silver | 
 | Marketing Segment	| Segment classification based on ride frequency | Frequent Rider |
+
+# Contact Information:
+If you’d like to get in touch:
+
+Email: huynhnguyenkhoi@outlook.com
