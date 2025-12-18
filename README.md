@@ -57,7 +57,7 @@ Below are the data schemas of the 2 datasets containing the following columns:
 + **Customer table**
 
 <p align="justify">
-  <b>Note</b>: The originally provided data source only contains the *Booking* table with only the *Customer ID* relating to customers. No personally identifiable information were disclosed. However, this means we are left with only the fact table with no dimension tables to filter through the fact table. While analysis can still be done, however, the depth of the analysis will be severely limited. Therefore, customer data for the features shown in the table below are artificially generated. Any resemblance to actual persons is purely coincidental.
+  <b>Note</b>: The originally provided data source only contains the <i>Booking</i> table with only the <i>Customer ID</i> relating to customers. No personally identifiable information were disclosed. However, this means we are left with only the fact table with no dimension tables to filter through the fact table. While analysis can still be done, however, the depth of the analysis will be severely limited. Therefore, customer data for the features shown in the table below are artificially generated. Any resemblance to actual persons is purely coincidental.
 </p>
 
 | Feature | Description | Example Value |
