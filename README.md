@@ -1,5 +1,7 @@
 # Uber Revenue Booking Insights (2022 - 2024)
+<p align="justify">
 This project analyzes Uber's ride and booking performance from 2022 to 2024, focusing on %YoY or %MoM revenue trends, customer behavior patterns, cancellation reasons, high demand areas with no driver availability, and operational efficiency. The report is built entirely in Power BI, using a robust star schema data model and interactive visuals.
+</p>
 
 # Report Screenshots
 <img width="1872" height="1022" alt="image" src="https://github.com/user-attachments/assets/2623ad3c-c654-4e66-8122-f463afa0648f" />
@@ -24,7 +26,9 @@ Below are the data schemas of the 2 datasets containing the following columns:
 
 + **Booking table**
 
-**Note**: Originally, the dataset only provides booking records in 2024. However, building a dashboard/report with only 1-year worth of data means minimal analysis can be done, resulting a relatively plain and shallow dashboard. Therefore, using existing booking records in 2024, data for the year 2022 and 2023 are artificially generated via extrapolation and randomization for the sole purpose of making data more diverse and populated over a larger timeframe to support dashboarding.
+<p align="justify">
+  <b>Note</b>: Originally, the dataset only provides booking records in 2024. However, building a dashboard/report with only 1-year worth of data means minimal analysis can be done, resulting a relatively plain and shallow dashboard. Therefore, using existing booking records in 2024, data for the year 2022 and 2023 are artificially generated via extrapolation and randomization for the sole purpose of making data more diverse and populated over a larger timeframe to support dashboarding.
+</p>
   
 | Feature | Description | Example Value |
 | :--------: | :------: | :--------: |
@@ -52,7 +56,9 @@ Below are the data schemas of the 2 datasets containing the following columns:
 
 + **Customer table**
 
-**Note**: The originally provided data source only contains the *Booking* table with only the *Customer ID* relating to customers. No personally identifiable information were disclosed. However, this means we are left with only the fact table with no dimension tables to filter through the fact table. While analysis can still be done, however, the depth of the analysis will be severely limited. Therefore, customer data for the features shown in the table below are artificially generated. Any resemblance to actual persons is purely coincidental.
+<p align="justify">
+  <b>Note</b>: The originally provided data source only contains the *Booking* table with only the *Customer ID* relating to customers. No personally identifiable information were disclosed. However, this means we are left with only the fact table with no dimension tables to filter through the fact table. While analysis can still be done, however, the depth of the analysis will be severely limited. Therefore, customer data for the features shown in the table below are artificially generated. Any resemblance to actual persons is purely coincidental.
+</p>
 
 | Feature | Description | Example Value |
 | :--------: | :------: | :--------: |
